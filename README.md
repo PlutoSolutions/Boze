@@ -3,6 +3,9 @@
 # Boze 1.0.1 (Maintenance-Free Edition)
 
 <img src="https://crystalpvp.ru/boze/logo.png" alt="logo" width="40%" />
+<br>
+<img src="https://user-images.githubusercontent.com/60744119/207977077-2ddaa2c4-0adc-45c1-ad6c-e45908249e2c.png" alt="logo" width="40%" />
+<img src="https://user-images.githubusercontent.com/60744119/207977267-95a42096-73c1-4cb6-b9aa-8f2a4d0966f6.png" alt="logo" width="50%" />
 
 mirrors:
   
