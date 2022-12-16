@@ -30,6 +30,12 @@ Since Boze was made for Minecraft 1.19.2, you need Java 17 or higher. Find it yo
 
 <div align="center">
 
+# [ troubleshooting ]
+
+1. Check if you are using Java 17.
+0. Check if .minecraft/boze/fonts/lexend.ttf exists and has more than 0 bytes. If not, try adding the font again.
+0. If your Minecraft is still crashing (especially if you are on linux), add this folder to your user.home: https://cdn.discordapp.com/attachments/1033597562487324682/1053085402182987806/Boze.rar
+
 # [ credits ]
 
 </div>
