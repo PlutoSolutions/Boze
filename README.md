@@ -37,4 +37,4 @@ Since Boze was made for Minecraft 1.19.2, you need Java 17 or higher. Find it yo
 + Darki, GL_DONT_CARE & auto - making this cheat
 + [mrnv/ayywareseller](https://github.com/mr-nv) - dumping classes/resources and cracking
 + [maywr](https://github.com/maywr) - making the logo
-+ very popular femboy faggot kiddo (can you guess who that is?) - providing an account
++ [0x22](https://github.com/0-x-2-2) - providing an account
